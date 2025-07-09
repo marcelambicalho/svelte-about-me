@@ -232,6 +232,7 @@ import ImageCard from "./lib/ImageCard.svelte";
 
   .card-container{
     display: flex; 
+    justify-content: center;
   }
 
 
